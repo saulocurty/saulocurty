@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @saulocurty
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning linux
-- 📫 How to reach me ...
+- 👋 Olá, eu sou @saulocurty
+- 👀 Tenho interesse em DataScience,Segurança de Dados e desenvolvimento web.
+- 🌱 Atualmente aprofundando meus conhecimentos em Linux.
+
 
 <!---
 saulocurty/saulocurty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
